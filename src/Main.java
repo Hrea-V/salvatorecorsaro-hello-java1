@@ -25,7 +25,7 @@ public class Main {
 
         String teaOrigins = "JaPan    ";
         if (teaOrigins.trim().equalsIgnoreCase("JAPAn")) {
-            System.out.println("Wow I love green team from Jpan");
+            System.out.println("Wow I love green team from Japan");
         }
     }
 }
