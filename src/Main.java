@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        String myFavoriteTea = "Oolong tea";
+        String myFavoriteTea = "White Tea";
         int amountOfTeaSpoonsToUse = 2;
         System.out.println("My favorite tea is " + myFavoriteTea);
         System.out.println("I use " + amountOfTeaSpoonsToUse + " teaspoons of " + myFavoriteTea);
